@@ -5,18 +5,24 @@
 ### chapter 03. 그리디
 <details>
   <summary>기출 문제</summary>
-  <pre>
-    <input type="checkbox" id="scales" name="scales"
-             checked>
-      <label for="scales">Scales</label>
-      <label><input type="checkbox" name="checkbox" value="value">Text</label>
-  </pre>
-</details>
-
-
-* <div markdown="1">
-
-<details id="mydetails">
-    <summary>Click here</summary>
-    <p><input type="checkbox">content</p>
+  <div markdown="1">
+    <pre>
+    - 큰 수의 법칙
+    - 숫자 카드 게임
+    - 1이 될 때까지
+    </pre>
+  </div>
+ </details>
+ <details>
+  <summary>실전 문제</summary>
+  <div markdown="1">
+    <pre>
+    - 모험가 길드
+    - 곱하기 혹은 더하기
+    - 문자열 뒤집기
+    - 만들 수 없는 금액
+    - 볼링공 고르기
+    - 무지의 먹방 라이브
+    </pre>
+  </div>
 </details>
