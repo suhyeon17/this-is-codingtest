@@ -4,9 +4,19 @@
 ## Contents
 ### chapter 03. 그리디
 <details>
-<summary>기출 문제</summary>
-<div markdown="1">
-- [X]큰 수의 법칙
-</div>
+  <summary>기출 문제</summary>
+  <pre>
+    <input type="checkbox" id="scales" name="scales"
+             checked>
+      <label for="scales">Scales</label>
+      <label><input type="checkbox" name="checkbox" value="value">Text</label>
+  </pre>
 </details>
-- [x]기출 문제
+
+
+* <div markdown="1">
+
+<details id="mydetails">
+    <summary>Click here</summary>
+    <p><input type="checkbox">content</p>
+</details>
